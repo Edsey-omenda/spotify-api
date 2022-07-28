@@ -1,0 +1,1378 @@
+{ "spotify":
+    {
+        "meta": {
+        "returnedCount": 20,
+        "totalCount": null
+        },
+        "albums": [
+        {
+        "type": "album",
+        "id": "alb.684760037",
+        "upc": "00602448304773",
+        "shortcut": "billie-eilish/guitar-songs",
+        "href": "https://api.napster.com/v2.2/albums/alb.684760037",
+        "name": "Guitar Songs",
+        "released": "2022-07-21T00:00:00.000Z",
+        "originallyReleased": "2022-07-21T00:00:00.000Z",
+        "label": "Darkroom/Interscope Records",
+        "copyright": "℗ 2022 Darkroom/Interscope Records",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 2,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "UMG Global",
+        "artistName": "Billie Eilish",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.214281475"
+        },
+        "discographies": {
+        "others": [
+        "art.33131187",
+        "art.267591137",
+        "art.186781446",
+        "art.33131193",
+        "art.234968074"
+        ],
+        "singlesAndEPs": [
+        "art.214281475"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684760037/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684760037/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684760037/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.214281475"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.214281475"
+        },
+        "genres": {
+        "ids": [
+        "g.33"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.33"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684862943",
+        "upc": "075679736178",
+        "shortcut": "megan-thee-stallion/pressurelicious-feat-future-single",
+        "href": "https://api.napster.com/v2.2/albums/alb.684862943",
+        "name": "Pressurelicious (feat. Future)",
+        "released": "2022-07-21T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "300 Entertainment",
+        "copyright": "A 1501 Certified Entertainment / 300 Entertainment Release., ℗ 2022 1501 Certified, LLC",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Megan Thee Stallion",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.268491907"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.268491907"
+        ],
+        "others": [
+        "art.313982911",
+        "art.293518778",
+        "art.268491912",
+        "art.263631829",
+        "art.486807293",
+        "art.10906543",
+        "art.531799973",
+        "art.170054695",
+        "art.263138036",
+        "art.10849997",
+        "art.312979704",
+        "art.26607910"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684862943/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684862943/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684862943/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.268491907"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.268491907"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683948925",
+        "upc": "196589291165",
+        "shortcut": "kane-brown/grand",
+        "href": "https://api.napster.com/v2.2/albums/alb.683948925",
+        "name": "Grand",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Rca Records Label Nashville",
+        "copyright": "2022 Sony Music Entertainment. All rights reserved.",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Sony",
+        "artistName": "Kane Brown",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.165300563"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.165300563"
+        ],
+        "others": [
+        "art.30359745",
+        "art.278438479",
+        "art.39864620",
+        "art.28497088",
+        "art.39202560",
+        "art.105623081",
+        "art.33131187"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683948925/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683948925/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683948925/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.165300563"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.165300563"
+        },
+        "genres": {
+        "ids": [
+        "g.407"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.407"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683745674",
+        "upc": "075679737236",
+        "shortcut": "panic-at-the-disco/middle-of-a-breakup",
+        "href": "https://api.napster.com/v2.2/albums/alb.683745674",
+        "name": "Middle Of A Breakup",
+        "released": "2022-07-20T00:00:00.000Z",
+        "originallyReleased": "2022-07-20T00:00:00.000Z",
+        "label": "Fueled By Ramen",
+        "copyright": "℗ 2022 Fueled By Ramen LLC",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Panic! at the Disco",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.7637076"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.7637076"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683745674/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683745674/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683745674/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.7637076"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.7637076"
+        },
+        "genres": {
+        "ids": [
+        "g.33"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.33"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.672518135",
+        "upc": "709401236444",
+        "shortcut": "russ/are-you-entertained-feat-ed-sheeran",
+        "href": "https://api.napster.com/v2.2/albums/alb.672518135",
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-08T00:00:00.000Z",
+        "label": "DIEMON / Ed Sheeran appears courtesy of Asylum Records UK",
+        "copyright": "2022 DIEMON / Ed Sheeran appears courtesy of Asylum Records UK",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Vydia",
+        "artistName": "Russ",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.5018797"
+        },
+        "discographies": {
+        "others": [
+        "art.263564223",
+        "art.8731899",
+        "art.287589038"
+        ],
+        "singlesAndEPs": [
+        "art.5018797",
+        "art.15237004"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.672518135/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.672518135/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.672518135/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.5018797"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.5018797"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684245897",
+        "upc": "054391867711",
+        "shortcut": "benson-boone/better-alone",
+        "href": "https://api.napster.com/v2.2/albums/alb.684245897",
+        "name": "Better Alone",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Warner Records",
+        "copyright": "Night Street Records, Inc./Warner Records Inc., ℗ 2022 Warner Records Inc.",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Benson Boone",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.618169636"
+        },
+        "discographies": {
+        "others": [
+        "art.615907149",
+        "art.263130589"
+        ],
+        "singlesAndEPs": [
+        "art.618169636"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245897/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245897/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245897/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.618169636"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.618169636"
+        },
+        "genres": {
+        "ids": [
+        "g.115"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.115"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684000939",
+        "upc": "886449688715",
+        "shortcut": "clinton-kane/maybe-someday-itll-all-be-ok",
+        "href": "https://api.napster.com/v2.2/albums/alb.684000939",
+        "name": "MAYBE SOMEDAY IT'LL ALL BE OK",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Columbia",
+        "copyright": "2022 Columbia Records, a Division of Sony Music Entertainment",
+        "tags": [
+        "Explicit",
+        "EP"
+        ],
+        "discCount": 1,
+        "trackCount": 9,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Sony",
+        "artistName": "Clinton Kane",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.339372961"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.339372961"
+        ],
+        "others": [
+        "art.264405930",
+        "art.26871529",
+        "art.514510709",
+        "art.299187994",
+        "art.263018443",
+        "art.151483065",
+        "art.33131251",
+        "art.326164134",
+        "art.684000952",
+        "art.208419623",
+        "art.42773566",
+        "art.26954598",
+        "art.301616819",
+        "art.250667562",
+        "art.40812101",
+        "art.618170075",
+        "art.26871526",
+        "art.41578359",
+        "art.265429961",
+        "art.208419660"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684000939/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684000939/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684000939/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.339372961"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.339372961"
+        },
+        "genres": {
+        "ids": [
+        "g.458"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.458"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684226701",
+        "upc": "196589183903",
+        "shortcut": "joey-badass/2000",
+        "href": "https://api.napster.com/v2.2/albums/alb.684226701",
+        "name": "2000",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Columbia",
+        "copyright": "2022 Pro Era / Cinematic Music Group, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "tags": [
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 14,
+        "isExplicit": true,
+        "isSingle": false,
+        "accountPartner": "Sony",
+        "artistName": "Joey Bada$$",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.68287108"
+        },
+        "discographies": {
+        "others": [
+        "art.514329834",
+        "art.28188425",
+        "art.26871120",
+        "art.10205003",
+        "art.497082726",
+        "art.638955359",
+        "art.115772725",
+        "art.323337363",
+        "art.46150507",
+        "art.684226742",
+        "art.70717612",
+        "art.289290220",
+        "art.349955894",
+        "art.296030253",
+        "art.684226752",
+        "art.394849602",
+        "art.21800427",
+        "art.310773499",
+        "art.373294503",
+        "art.225464919",
+        "art.120269543",
+        "art.31820879",
+        "art.623630853",
+        "art.382351170",
+        "art.363027888",
+        "art.194416786",
+        "art.273332669",
+        "art.391371575",
+        "art.45589245",
+        "art.297573593",
+        "art.55616326",
+        "art.266535420",
+        "art.35269107",
+        "art.239326272",
+        "art.47076210",
+        "art.577362807",
+        "art.286151611",
+        "art.263597181",
+        "art.282412451",
+        "art.327681536",
+        "art.398948449",
+        "art.202522861",
+        "art.207435732",
+        "art.22080",
+        "art.388547097",
+        "art.539",
+        "art.297586054",
+        "art.270241895",
+        "art.32992182",
+        "art.128639923",
+        "art.13312954",
+        "art.270388168",
+        "art.45772132",
+        "art.288117453",
+        "art.308873087",
+        "art.405848817",
+        "art.269501079",
+        "art.331895810",
+        "art.650241677",
+        "art.6883093",
+        "art.33470718",
+        "art.599795746",
+        "art.314953287",
+        "art.176113185",
+        "art.266982803",
+        "art.335818399",
+        "art.684226746",
+        "art.7499873",
+        "art.71467440",
+        "art.278235367",
+        "art.275037377",
+        "art.196369298",
+        "art.280163758",
+        "art.605975367",
+        "art.268102224",
+        "art.7216",
+        "art.278319198",
+        "art.469735461",
+        "art.411006929",
+        "art.386357808",
+        "art.386597276",
+        "art.492000820",
+        "art.516444721",
+        "art.290737440",
+        "art.317886104",
+        "art.33131193",
+        "art.32743840"
+        ],
+        "main": [
+        "art.68287108"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684226701/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684226701/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684226701/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.68287108"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.68287108"
+        },
+        "genres": {
+        "ids": [
+        "g.1009"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.1009"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684245758",
+        "upc": "5054197213144",
+        "shortcut": "macklemore/chant-feat-tones-and-i",
+        "href": "https://api.napster.com/v2.2/albums/alb.684245758",
+        "name": "CHANT (feat. Tones And I)",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Bendo LLC",
+        "copyright": "℗ 2022 Macklemore, LLC.",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Macklemore",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.241575198"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.352193935",
+        "art.241575198"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245758/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245758/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684245758/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.241575198"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.241575198"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684535223",
+        "upc": "075679732729",
+        "shortcut": "lil-uzi-vert/space-cadet",
+        "href": "https://api.napster.com/v2.2/albums/alb.684535223",
+        "name": "SPACE CADET",
+        "released": "2022-07-20T00:00:00.000Z",
+        "originallyReleased": "2022-07-20T00:00:00.000Z",
+        "label": "Generation Now/Atlantic",
+        "copyright": "Generation Now/Atlantic Records, ℗ 2022 Atlantic Recording Corporation",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Lil Uzi Vert",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.191365128"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.191365128"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684535223/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684535223/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684535223/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.191365128"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.191365128"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683345383",
+        "upc": "196589306807",
+        "shortcut": "madison-beer/i-have-never-felt-more-alive-from-the-feature-film-fall",
+        "href": "https://api.napster.com/v2.2/albums/alb.683345383",
+        "name": "I Have Never Felt More Alive (from the feature film \"Fall\")",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Epic/Sing It Loud",
+        "copyright": "2022 Epic Records/Sing It Loud",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Sony",
+        "artistName": "Madison Beer",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.122285608"
+        },
+        "discographies": {
+        "others": [
+        "art.221094916",
+        "art.211644661",
+        "art.263132637"
+        ],
+        "singlesAndEPs": [
+        "art.122285608"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683345383/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683345383/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683345383/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.122285608"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.122285608"
+        },
+        "genres": {
+        "ids": [
+        "g.115"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.115"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.677111908",
+        "upc": "5056167174158",
+        "shortcut": "bbnos/sophisticated",
+        "href": "https://api.napster.com/v2.2/albums/alb.677111908",
+        "name": "sophisticated",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-08T00:00:00.000Z",
+        "label": "BBNO$",
+        "copyright": "bbno$ under exclusive license to AWAL Recordings America, Inc.",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Awal  Records",
+        "artistName": "bbno$",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.284649049"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.284649049"
+        ],
+        "others": [
+        "art.387537127",
+        "art.170192155",
+        "art.117712567"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.677111908/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.677111908/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.677111908/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.284649049"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.284649049"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683956014",
+        "upc": "196589232946",
+        "shortcut": "the-chainsmokers/so-far-so-good-time-bomb",
+        "href": "https://api.napster.com/v2.2/albums/alb.683956014",
+        "name": "So Far So Good (+ Time Bomb)",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Disruptor Records/Columbia",
+        "copyright": "2022 Disruptor Records/Columbia Records",
+        "tags": [
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 16,
+        "isExplicit": true,
+        "isSingle": false,
+        "accountPartner": "Sony",
+        "artistName": "The Chainsmokers",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.68926207"
+        },
+        "discographies": {
+        "main": [
+        "art.68926207"
+        ],
+        "others": [
+        "art.142008435",
+        "art.666402753",
+        "art.38742512",
+        "art.3399",
+        "art.142457442",
+        "art.264405924",
+        "art.200775993",
+        "art.64250",
+        "art.28853501",
+        "art.9059",
+        "art.333330909",
+        "art.422265054",
+        "art.8836272",
+        "art.487059035",
+        "art.451117693",
+        "art.429927269",
+        "art.244963248",
+        "art.313841418",
+        "art.244564394",
+        "art.309731091",
+        "art.429745543",
+        "art.268932380",
+        "art.263183523",
+        "art.291655757",
+        "art.71650331",
+        "art.38742510",
+        "art.39117795",
+        "art.7371695",
+        "art.39373550",
+        "art.263018443",
+        "art.17232549",
+        "art.291655759",
+        "art.242258570",
+        "art.5264248",
+        "art.176985924",
+        "art.353505713",
+        "art.264025089",
+        "art.249333296",
+        "art.265589607",
+        "art.270241897",
+        "art.471121868"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683956014/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683956014/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683956014/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.68926207"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.68926207"
+        },
+        "genres": {
+        "ids": [
+        "g.115"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.115"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684329710",
+        "upc": "00842812175558",
+        "shortcut": "iann-dior/i-find-it-hard",
+        "href": "https://api.napster.com/v2.2/albums/alb.684329710",
+        "name": "I Find It Hard",
+        "released": "2022-07-20T00:00:00.000Z",
+        "originallyReleased": "2022-07-20T00:00:00.000Z",
+        "label": "10k Projects",
+        "copyright": "℗ 2022 10K Projects",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "UMG Global",
+        "artistName": "iann dior",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.355571837"
+        },
+        "discographies": {
+        "others": [
+        "art.263136851",
+        "art.684329724",
+        "art.266387497",
+        "art.301006158"
+        ],
+        "singlesAndEPs": [
+        "art.355571837"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684329710/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684329710/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684329710/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.355571837"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.355571837"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684227624",
+        "upc": "054391898500",
+        "shortcut": "ali-gatie/cant-give-up",
+        "href": "https://api.napster.com/v2.2/albums/alb.684227624",
+        "name": "Can't Give Up",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Warner Records",
+        "copyright": "℗ 2022 LISN, under exclusive license to Warner Records Inc.",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Ali Gatie",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.308608357"
+        },
+        "discographies": {
+        "others": [
+        "art.24457812",
+        "art.121592437",
+        "art.295928555",
+        "art.302824287",
+        "art.382614107",
+        "art.386357812"
+        ],
+        "singlesAndEPs": [
+        "art.308608357"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684227624/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684227624/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684227624/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.308608357"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.308608357"
+        },
+        "genres": {
+        "ids": [
+        "g.194"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.194"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.678154475",
+        "upc": "196922093272",
+        "shortcut": "tainy/sci-fi",
+        "href": "https://api.napster.com/v2.2/albums/alb.678154475",
+        "name": "Sci-Fi",
+        "released": "2022-07-21T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Neon16",
+        "copyright": "℗ 2022 NEON16",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Isolation Network Inc.",
+        "artistName": "Tainy",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.39467842"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.39467842"
+        ],
+        "others": [
+        "art.353571428",
+        "art.638150286",
+        "art.264548048",
+        "art.336070391"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.678154475/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.678154475/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.678154475/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.39467842"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.39467842"
+        },
+        "genres": {
+        "ids": [
+        "g.71"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.71"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683836942",
+        "upc": "5054197229480",
+        "shortcut": "muse-7035/kill-or-be-killed",
+        "href": "https://api.napster.com/v2.2/albums/alb.683836942",
+        "name": "Kill Or Be Killed",
+        "released": "2022-07-21T00:00:00.000Z",
+        "originallyReleased": "2022-07-21T00:00:00.000Z",
+        "label": "Warner Records",
+        "copyright": "Under exclusive licence to Warner Music UK Limited, ℗ 2022 Muse",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Muse",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.7035"
+        },
+        "discographies": {
+        "others": [
+        "art.300389138",
+        "art.24457812",
+        "art.329169721",
+        "art.28188252",
+        "art.28188244",
+        "art.263511469",
+        "art.384602099",
+        "art.28188251",
+        "art.30220398",
+        "art.626124398",
+        "art.638047324",
+        "art.35239"
+        ],
+        "singlesAndEPs": [
+        "art.7035"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683836942/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683836942/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683836942/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.7035"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.7035"
+        },
+        "genres": {
+        "ids": [
+        "g.168"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.168"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683955940",
+        "upc": "196589282521",
+        "shortcut": "arizona-zervas/holy-trinity",
+        "href": "https://api.napster.com/v2.2/albums/alb.683955940",
+        "name": "HOLY TRINITY",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "Arizona Zervas",
+        "copyright": "2022 Arizona Zervas",
+        "tags": [
+        "Single",
+        "Explicit"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": true,
+        "isSingle": true,
+        "accountPartner": "Sony",
+        "artistName": "Arizona Zervas",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.194529451"
+        },
+        "discographies": {
+        "singlesAndEPs": [
+        "art.194529451"
+        ],
+        "others": [
+        "art.422265054",
+        "art.24457812",
+        "art.26871529",
+        "art.415005679",
+        "art.291655757",
+        "art.266241178",
+        "art.429745543",
+        "art.269064608"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683955940/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683955940/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683955940/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.194529451"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.194529451"
+        },
+        "genres": {
+        "ids": [
+        "g.146"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.146"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.684165328",
+        "upc": "075679738462",
+        "shortcut": "slipknot-metal/the-dying-song",
+        "href": "https://api.napster.com/v2.2/albums/alb.684165328",
+        "name": "The Dying Song (Time To Sing)",
+        "released": "2022-07-19T00:00:00.000Z",
+        "originallyReleased": "2022-07-19T00:00:00.000Z",
+        "label": "Roadrunner Records",
+        "copyright": "℗ 2022 Roadrunner Records, Inc.",
+        "tags": [
+        "Single"
+        ],
+        "discCount": 1,
+        "trackCount": 1,
+        "isExplicit": false,
+        "isSingle": true,
+        "accountPartner": "Warner",
+        "artistName": "Slipknot",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.8801"
+        },
+        "discographies": {
+        "others": [
+        "art.32746442",
+        "art.384596159",
+        "art.32743754",
+        "art.29818912",
+        "art.684165330",
+        "art.24023270",
+        "art.321364134",
+        "art.263817459",
+        "art.7058668",
+        "art.263027770",
+        "art.29603827",
+        "art.11851793"
+        ],
+        "singlesAndEPs": [
+        "art.8801"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684165328/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684165328/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.684165328/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.8801"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.8801"
+        },
+        "genres": {
+        "ids": [
+        "g.465"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.465"
+        }
+        },
+        "isStreamable": true
+        },
+        {
+        "type": "album",
+        "id": "alb.683444869",
+        "upc": "810074421287",
+        "shortcut": "jack-white/entering-heaven-alive",
+        "href": "https://api.napster.com/v2.2/albums/alb.683444869",
+        "name": "Entering Heaven Alive",
+        "released": "2022-07-22T00:00:00.000Z",
+        "originallyReleased": "2022-07-22T00:00:00.000Z",
+        "label": "2022 Third Man Records, LLC",
+        "copyright": "2022 Third Man Records",
+        "tags": [],
+        "discCount": 1,
+        "trackCount": 11,
+        "isExplicit": false,
+        "isSingle": false,
+        "accountPartner": "Orchard Enterprises Inc",
+        "artistName": "Jack White",
+        "isAvailableInHiRes": false,
+        "isAvailableInAtmos": false,
+        "contributingArtists": {
+        "primaryArtist": "art.5196427"
+        },
+        "discographies": {
+        "main": [
+        "art.5196427"
+        ]
+        },
+        "links": {
+        "images": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683444869/images"
+        },
+        "tracks": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683444869/tracks"
+        },
+        "posts": {
+        "href": "https://api.napster.com/v2.2/albums/alb.683444869/posts"
+        },
+        "artists": {
+        "ids": [
+        "art.5196427"
+        ],
+        "href": "https://api.napster.com/v2.2/artists/art.5196427"
+        },
+        "genres": {
+        "ids": [
+        "g.204"
+        ],
+        "href": "https://api.napster.com/v2.2/genres/g.204"
+        }
+        },
+        "isStreamable": true
+        }
+        ]
+        }
+}
